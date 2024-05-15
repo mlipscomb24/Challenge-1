@@ -1,5 +1,5 @@
 <h2>Challenge -1 </h2>
-Choose a self-explaining name for your project.
+Refactoring existing code for the given website.
 
 <h2> Description </h2>
 
